@@ -11,18 +11,18 @@ sites:
     url: https://cf.mirror.zinglix.xyz
   - name: cf.ljnb.top
     url: https://cf.ljnb.top
-  - name: zinglix-github-io.pages.dev
-    url: https://zinglix-github-io.pages.dev
+  - name: zinglix.pages.dev
+    url: https://zinglix.pages.dev
   - name: nf.ljnb.top
     url: https://nf.ljnb.top
-  - name: laughing-mahavira-c38582.netlify.app
-    url: https://laughing-mahavira-c38582.netlify.app
+  - name: zinglix.netlify.app
+    url: https://zinglix.netlify.app
   - name: v.mirror.zinglix.xyz
     url: https://v.mirror.zinglix.xyz
   - name: v.ljnb.top
     url: https://v.ljnb.top
-  - name: zing-lix-github-io.vercel.app
-    url: https://zing-lix-github-io.vercel.app
+  - name: zinglix.vercel.app
+    url: https://zinglix.vercel.app
   - name: gh.mirror.zinglix.xyz
     url: https://gh.mirror.zinglix.xyz
     
