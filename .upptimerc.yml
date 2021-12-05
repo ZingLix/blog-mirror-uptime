@@ -34,7 +34,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: ZingLix Blog Mirror Uptime
   introTitle: "ZingLix Blog Mirror Uptime"
-  introMessage: "[Mirrors Detail](https://zinglix.xyz/mirror)"
+  introMessage: ""
   navbar:
     - title: Status
       href: /
