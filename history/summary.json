@@ -22,9 +22,9 @@
     "url": "https://blog.zinglix.xyz",
     "icon": "https://favicons.githubusercontent.com/blog.zinglix.xyz",
     "slug": "blog-zinglix-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1357,
     "timeMonth": 1400,
     "timeYear": 1400,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-14": 0
+    }
   },
   {
     "name": "cf.mirror.zinglix.xyz",
