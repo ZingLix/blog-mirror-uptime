@@ -24,12 +24,12 @@
     "slug": "blog-zinglix-xyz",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "98.88%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 1371,
-    "timeDay": 1182,
+    "timeDay": 1179,
     "timeWeek": 1329,
     "timeMonth": 1371,
     "timeYear": 1371,
@@ -132,28 +132,30 @@
     "url": "https://v.mirror.zinglix.xyz",
     "icon": "https://favicons.githubusercontent.com/v.mirror.zinglix.xyz",
     "slug": "v-mirror-zinglix-xyz",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 235,
     "timeDay": 53,
     "timeWeek": 107,
     "timeMonth": 235,
     "timeYear": 235,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 1
+    }
   },
   {
     "name": "v.ljnb.top",
     "url": "https://v.ljnb.top",
     "icon": "https://favicons.githubusercontent.com/v.ljnb.top",
     "slug": "v-ljnb-top",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 292,
@@ -161,16 +163,18 @@
     "timeWeek": 291,
     "timeMonth": 292,
     "timeYear": 292,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 1
+    }
   },
   {
     "name": "zinglix.vercel.app",
     "url": "https://zinglix.vercel.app",
     "icon": "https://favicons.githubusercontent.com/zinglix.vercel.app",
     "slug": "zinglix-vercel-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,7 +183,9 @@
     "timeWeek": 84,
     "timeMonth": 74,
     "timeYear": 74,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-15": 0
+    }
   },
   {
     "name": "gh.mirror.zinglix.xyz",
