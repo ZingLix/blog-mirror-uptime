@@ -4,18 +4,20 @@
     "url": "https://zinglix.xyz",
     "icon": "https://favicons.githubusercontent.com/zinglix.xyz",
     "slug": "zinglix-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 168,
-    "timeDay": 102,
-    "timeWeek": 139,
-    "timeMonth": 145,
-    "timeYear": 168,
-    "dailyMinutesDown": {}
+    "time": 340,
+    "timeDay": 4085,
+    "timeWeek": 1130,
+    "timeMonth": 378,
+    "timeYear": 340,
+    "dailyMinutesDown": {
+      "2022-01-13": 0
+    }
   },
   {
     "name": "blog.zinglix.xyz",
