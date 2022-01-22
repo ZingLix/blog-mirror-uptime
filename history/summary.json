@@ -6,8 +6,8 @@
     "slug": "zinglix-xyz",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "96.38%",
-    "uptimeWeek": "99.48%",
+    "uptimeDay": "96.57%",
+    "uptimeWeek": "99.51%",
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.89%",
     "time": 430,
@@ -16,7 +16,7 @@
     "timeMonth": 546,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2022-01-21": 53,
+      "2022-01-21": 50,
       "2022-01-13": 24
     }
   },
