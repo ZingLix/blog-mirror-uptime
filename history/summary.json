@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/zinglix.xyz",
     "slug": "zinglix-xyz",
     "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "96.07%",
-    "uptimeWeek": "97.37%",
+    "uptime": "99.61%",
+    "uptimeDay": "96.13%",
+    "uptimeWeek": "97.38%",
     "uptimeMonth": "99.34%",
-    "uptimeYear": "99.60%",
+    "uptimeYear": "99.61%",
     "time": 686,
-    "timeDay": 1253,
+    "timeDay": 1260,
     "timeWeek": 1196,
-    "timeMonth": 854,
+    "timeMonth": 864,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2022-01-24": 57,
+      "2022-01-24": 56,
       "2022-01-23": 109,
       "2022-01-22": 51,
       "2022-01-21": 50,
@@ -37,7 +37,7 @@
     "time": 1291,
     "timeDay": 172,
     "timeWeek": 628,
-    "timeMonth": 1290,
+    "timeMonth": 1284,
     "timeYear": 1291,
     "dailyMinutesDown": {
       "2022-01-10": 19,
@@ -58,7 +58,7 @@
     "time": 110,
     "timeDay": 91,
     "timeWeek": 121,
-    "timeMonth": 104,
+    "timeMonth": 103,
     "timeYear": 110,
     "dailyMinutesDown": {}
   },
@@ -76,7 +76,7 @@
     "time": 322,
     "timeDay": 326,
     "timeWeek": 318,
-    "timeMonth": 325,
+    "timeMonth": 324,
     "timeYear": 322,
     "dailyMinutesDown": {}
   },
@@ -112,7 +112,7 @@
     "time": 439,
     "timeDay": 443,
     "timeWeek": 353,
-    "timeMonth": 359,
+    "timeMonth": 360,
     "timeYear": 439,
     "dailyMinutesDown": {}
   },
@@ -130,7 +130,7 @@
     "time": 121,
     "timeDay": 114,
     "timeWeek": 178,
-    "timeMonth": 122,
+    "timeMonth": 121,
     "timeYear": 121,
     "dailyMinutesDown": {}
   },
@@ -148,7 +148,7 @@
     "time": 154,
     "timeDay": 172,
     "timeWeek": 297,
-    "timeMonth": 140,
+    "timeMonth": 143,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2021-12-15": 19
@@ -168,7 +168,7 @@
     "time": 304,
     "timeDay": 77,
     "timeWeek": 632,
-    "timeMonth": 349,
+    "timeMonth": 348,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2021-12-15": 19
