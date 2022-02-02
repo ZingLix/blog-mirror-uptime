@@ -4,19 +4,19 @@
     "url": "https://zinglix.xyz",
     "icon": "https://favicons.githubusercontent.com/zinglix.xyz",
     "slug": "zinglix-xyz",
-    "status": "up",
-    "uptime": "97.46%",
-    "uptimeDay": "64.98%",
-    "uptimeWeek": "82.88%",
-    "uptimeMonth": "95.02%",
-    "uptimeYear": "97.46%",
+    "status": "down",
+    "uptime": "97.47%",
+    "uptimeDay": "65.74%",
+    "uptimeWeek": "82.98%",
+    "uptimeMonth": "95.04%",
+    "uptimeYear": "97.47%",
     "time": 1803,
-    "timeDay": 3695,
+    "timeDay": 3782,
     "timeWeek": 2701,
     "timeMonth": 2106,
     "timeYear": 1803,
     "dailyMinutesDown": {
-      "2022-02-02": 403,
+      "2022-02-02": 393,
       "2022-02-01": 368,
       "2022-01-31": 356,
       "2022-01-30": 271,
@@ -112,10 +112,10 @@
     "url": "https://nf.ljnb.top",
     "icon": "https://favicons.githubusercontent.com/nf.ljnb.top",
     "slug": "nf-ljnb-top",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 469,
@@ -123,16 +123,18 @@
     "timeWeek": 655,
     "timeMonth": 445,
     "timeYear": 469,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-02": 1
+    }
   },
   {
     "name": "zinglix.netlify.app",
     "url": "https://zinglix.netlify.app",
     "icon": "https://favicons.githubusercontent.com/zinglix.netlify.app",
     "slug": "zinglix-netlify-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,7 +143,9 @@
     "timeWeek": 234,
     "timeMonth": 157,
     "timeYear": 133,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-02": 0
+    }
   },
   {
     "name": "v.mirror.zinglix.xyz",
