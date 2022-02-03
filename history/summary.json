@@ -11,7 +11,7 @@
     "uptimeMonth": "94.05%",
     "uptimeYear": "96.99%",
     "time": 1846,
-    "timeDay": 2827,
+    "timeDay": 2884,
     "timeWeek": 2699,
     "timeMonth": 2143,
     "timeYear": 1846,
@@ -77,9 +77,9 @@
     "url": "https://cf.ljnb.top",
     "icon": "https://favicons.githubusercontent.com/cf.ljnb.top",
     "slug": "cf-ljnb-top",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -88,7 +88,9 @@
     "timeWeek": 417,
     "timeMonth": 342,
     "timeYear": 331,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-03": 0
+    }
   },
   {
     "name": "zinglix.pages.dev",
@@ -113,9 +115,9 @@
     "url": "https://nf.ljnb.top",
     "icon": "https://favicons.githubusercontent.com/nf.ljnb.top",
     "slug": "nf-ljnb-top",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.91%",
+    "uptimeDay": "98.89%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
@@ -125,6 +127,7 @@
     "timeMonth": 437,
     "timeYear": 465,
     "dailyMinutesDown": {
+      "2022-02-03": 0,
       "2022-02-02": 16
     }
   },
@@ -173,9 +176,9 @@
     "url": "https://v.ljnb.top",
     "icon": "https://favicons.githubusercontent.com/v.ljnb.top",
     "slug": "v-ljnb-top",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -185,6 +188,7 @@
     "timeMonth": 318,
     "timeYear": 286,
     "dailyMinutesDown": {
+      "2022-02-03": 0,
       "2021-12-15": 19
     }
   },
