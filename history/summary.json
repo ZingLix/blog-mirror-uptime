@@ -39,18 +39,19 @@
     "url": "https://blog.zinglix.xyz",
     "icon": "https://favicons.githubusercontent.com/blog.zinglix.xyz",
     "slug": "blog-zinglix-xyz",
-    "status": "up",
-    "uptime": "97.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.50%",
+    "status": "down",
+    "uptime": "97.12%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.49%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "97.11%",
+    "uptimeYear": "97.12%",
     "time": 1933,
     "timeDay": 1529,
     "timeWeek": 2037,
     "timeMonth": 3002,
     "timeYear": 1933,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-06-18": 22,
       "2022-06-17": 29,
       "2022-06-06": 21,
@@ -88,7 +89,7 @@
       "2022-02-21": 23,
       "2022-02-16": 25,
       "2022-02-11": 336,
-      "2022-02-10": 473
+      "2022-02-10": 451
     }
   },
   {
@@ -97,19 +98,17 @@
     "icon": "https://favicons.githubusercontent.com/cf.mirror.zinglix.xyz",
     "slug": "cf-mirror-zinglix-xyz",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.01%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 201,
     "timeDay": 5164,
     "timeWeek": 1795,
     "timeMonth": 615,
     "timeYear": 201,
-    "dailyMinutesDown": {
-      "2022-06-21": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "cf.ljnb.top",
@@ -138,18 +137,16 @@
     "slug": "zinglix-pages-dev",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 116,
     "timeDay": 3492,
     "timeWeek": 1212,
     "timeMonth": 391,
     "timeYear": 116,
-    "dailyMinutesDown": {
-      "2022-06-21": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "nf.ljnb.top",
