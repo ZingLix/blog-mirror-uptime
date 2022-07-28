@@ -173,10 +173,10 @@
     "url": "https://nf.ljnb.top",
     "icon": "https://favicons.githubusercontent.com/nf.ljnb.top",
     "slug": "nf-ljnb-top",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 488,
@@ -185,6 +185,7 @@
     "timeMonth": 552,
     "timeYear": 488,
     "dailyMinutesDown": {
+      "2022-07-28": 1,
       "2022-03-09": 21,
       "2022-02-03": 43,
       "2022-02-02": 16
