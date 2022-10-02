@@ -2,7 +2,7 @@
   {
     "name": "zinglix.xyz",
     "url": "https://zinglix.xyz",
-    "icon": "https://favicons.githubusercontent.com/zinglix.xyz",
+    "icon": "https://icons.duckduckgo.com/ip3/zinglix.xyz.ico",
     "slug": "zinglix-xyz",
     "status": "up",
     "uptime": "99.35%",
@@ -40,20 +40,21 @@
   {
     "name": "blog.zinglix.xyz",
     "url": "https://blog.zinglix.xyz",
-    "icon": "https://favicons.githubusercontent.com/blog.zinglix.xyz",
+    "icon": "https://icons.duckduckgo.com/ip3/blog.zinglix.xyz.ico",
     "slug": "blog-zinglix-xyz",
-    "status": "up",
-    "uptime": "98.25%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.26%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.15%",
-    "uptimeYear": "98.25%",
+    "uptimeMonth": "97.20%",
+    "uptimeYear": "98.26%",
     "time": 1927,
     "timeDay": 1997,
     "timeWeek": 1693,
-    "timeMonth": 2010,
+    "timeMonth": 2022,
     "timeYear": 1927,
     "dailyMinutesDown": {
+      "2022-10-02": 0,
       "2022-09-13": 45,
       "2022-09-10": 20,
       "2022-09-08": 221,
@@ -112,13 +113,13 @@
       "2022-05-13": 1440,
       "2022-05-12": 1440,
       "2022-05-11": 1250,
-      "2022-05-10": 171
+      "2022-05-10": 144
     }
   },
   {
     "name": "cf.mirror.zinglix.xyz",
     "url": "https://cf.mirror.zinglix.xyz",
-    "icon": "https://favicons.githubusercontent.com/cf.mirror.zinglix.xyz",
+    "icon": "https://icons.duckduckgo.com/ip3/cf.mirror.zinglix.xyz.ico",
     "slug": "cf-mirror-zinglix-xyz",
     "status": "up",
     "uptime": "99.94%",
@@ -140,7 +141,7 @@
   {
     "name": "cf.ljnb.top",
     "url": "https://cf.ljnb.top",
-    "icon": "https://favicons.githubusercontent.com/cf.ljnb.top",
+    "icon": "https://icons.duckduckgo.com/ip3/cf.ljnb.top.ico",
     "slug": "cf-ljnb-top",
     "status": "up",
     "uptime": "99.94%",
@@ -162,7 +163,7 @@
   {
     "name": "zinglix.pages.dev",
     "url": "https://zinglix.pages.dev",
-    "icon": "https://favicons.githubusercontent.com/zinglix.pages.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/zinglix.pages.dev.ico",
     "slug": "zinglix-pages-dev",
     "status": "up",
     "uptime": "99.95%",
@@ -183,7 +184,7 @@
   {
     "name": "nf.ljnb.top",
     "url": "https://nf.ljnb.top",
-    "icon": "https://favicons.githubusercontent.com/nf.ljnb.top",
+    "icon": "https://icons.duckduckgo.com/ip3/nf.ljnb.top.ico",
     "slug": "nf-ljnb-top",
     "status": "up",
     "uptime": "99.95%",
@@ -210,7 +211,7 @@
   {
     "name": "zinglix.netlify.app",
     "url": "https://zinglix.netlify.app",
-    "icon": "https://favicons.githubusercontent.com/zinglix.netlify.app",
+    "icon": "https://icons.duckduckgo.com/ip3/zinglix.netlify.app.ico",
     "slug": "zinglix-netlify-app",
     "status": "up",
     "uptime": "99.98%",
@@ -234,7 +235,7 @@
   {
     "name": "v.mirror.zinglix.xyz",
     "url": "https://v.mirror.zinglix.xyz",
-    "icon": "https://favicons.githubusercontent.com/v.mirror.zinglix.xyz",
+    "icon": "https://icons.duckduckgo.com/ip3/v.mirror.zinglix.xyz.ico",
     "slug": "v-mirror-zinglix-xyz",
     "status": "up",
     "uptime": "99.99%",
@@ -255,7 +256,7 @@
   {
     "name": "v.ljnb.top",
     "url": "https://v.ljnb.top",
-    "icon": "https://favicons.githubusercontent.com/v.ljnb.top",
+    "icon": "https://icons.duckduckgo.com/ip3/v.ljnb.top.ico",
     "slug": "v-ljnb-top",
     "status": "up",
     "uptime": "99.99%",
@@ -276,7 +277,7 @@
   {
     "name": "zinglix.vercel.app",
     "url": "https://zinglix.vercel.app",
-    "icon": "https://favicons.githubusercontent.com/zinglix.vercel.app",
+    "icon": "https://icons.duckduckgo.com/ip3/zinglix.vercel.app.ico",
     "slug": "zinglix-vercel-app",
     "status": "up",
     "uptime": "100.00%",
@@ -296,7 +297,7 @@
   {
     "name": "gh.mirror.zinglix.xyz",
     "url": "https://gh.mirror.zinglix.xyz",
-    "icon": "https://favicons.githubusercontent.com/gh.mirror.zinglix.xyz",
+    "icon": "https://icons.duckduckgo.com/ip3/gh.mirror.zinglix.xyz.ico",
     "slug": "gh-mirror-zinglix-xyz",
     "status": "up",
     "uptime": "99.99%",
