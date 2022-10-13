@@ -42,9 +42,9 @@
     "url": "https://blog.zinglix.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/blog.zinglix.xyz.ico",
     "slug": "blog-zinglix-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "87.38%",
+    "uptimeDay": "87.36%",
     "uptimeWeek": "97.14%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "99.28%",
@@ -108,8 +108,7 @@
       "2022-06-17": 29,
       "2022-06-06": 21,
       "2022-06-05": 20,
-      "2022-05-31": 23,
-      "2022-05-30": 21
+      "2022-05-31": 23
     }
   },
   {
