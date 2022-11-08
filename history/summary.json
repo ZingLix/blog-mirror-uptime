@@ -43,18 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.zinglix.xyz.ico",
     "slug": "blog-zinglix-xyz",
     "status": "up",
-    "uptime": "99.32%",
-    "uptimeDay": "97.80%",
-    "uptimeWeek": "95.55%",
-    "uptimeMonth": "96.77%",
-    "uptimeYear": "99.32%",
+    "uptime": "99.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.01%",
+    "uptimeMonth": "96.80%",
+    "uptimeYear": "99.30%",
     "time": 1911,
-    "timeDay": 1641,
-    "timeWeek": 1654,
+    "timeDay": 1378,
+    "timeWeek": 1659,
     "timeMonth": 1806,
     "timeYear": 1911,
     "dailyMinutesDown": {
-      "2022-11-08": 13,
       "2022-11-07": 19,
       "2022-11-06": 146,
       "2022-11-05": 56,
@@ -98,7 +97,7 @@
       "2022-08-23": 20,
       "2022-08-22": 59,
       "2022-08-21": 50,
-      "2022-08-20": 24
+      "2022-08-20": 156
     }
   },
   {
@@ -224,10 +223,10 @@
     "url": "https://v.mirror.zinglix.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/v.mirror.zinglix.xyz.ico",
     "slug": "v-mirror-zinglix-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 214,
@@ -236,6 +235,7 @@
     "timeMonth": 281,
     "timeYear": 214,
     "dailyMinutesDown": {
+      "2022-11-08": 1,
       "2022-07-28": 15,
       "2021-12-15": 19
     }
@@ -245,10 +245,10 @@
     "url": "https://v.ljnb.top",
     "icon": "https://icons.duckduckgo.com/ip3/v.ljnb.top.ico",
     "slug": "v-ljnb-top",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 323,
@@ -257,6 +257,7 @@
     "timeMonth": 344,
     "timeYear": 323,
     "dailyMinutesDown": {
+      "2022-11-08": 1,
       "2022-02-03": 43,
       "2021-12-15": 19
     }
@@ -266,9 +267,9 @@
     "url": "https://zinglix.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/zinglix.vercel.app.ico",
     "slug": "zinglix-vercel-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -278,6 +279,7 @@
     "timeMonth": 249,
     "timeYear": 114,
     "dailyMinutesDown": {
+      "2022-11-08": 0,
       "2021-12-15": 18
     }
   },
