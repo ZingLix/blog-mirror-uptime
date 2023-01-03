@@ -50,7 +50,7 @@
     "uptimeYear": "99.42%",
     "time": 1890,
     "timeDay": 1695,
-    "timeWeek": 1660,
+    "timeWeek": 1694,
     "timeMonth": 1739,
     "timeYear": 1910,
     "dailyMinutesDown": {
@@ -254,18 +254,19 @@
     "url": "https://v.ljnb.top",
     "icon": "https://icons.duckduckgo.com/ip3/v.ljnb.top.ico",
     "slug": "v-ljnb-top",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 325,
-    "timeDay": 357,
-    "timeWeek": 287,
-    "timeMonth": 332,
+    "timeDay": 368,
+    "timeWeek": 299,
+    "timeMonth": 334,
     "timeYear": 331,
     "dailyMinutesDown": {
+      "2023-01-03": 0,
       "2022-11-08": 21,
       "2022-02-03": 43
     }
