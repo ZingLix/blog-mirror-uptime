@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 594,
-    "timeDay": 117,
+    "timeDay": 108,
     "timeWeek": 181,
-    "timeMonth": 188,
-    "timeYear": 221,
+    "timeMonth": 189,
+    "timeYear": 222,
     "dailyMinutesDown": {
       "2022-08-20": 19,
       "2022-07-08": 16,
@@ -29,17 +29,16 @@
     "slug": "blog-zinglix-xyz",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "99.81%",
-    "uptimeWeek": "96.61%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "96.64%",
     "uptimeMonth": "97.61%",
-    "uptimeYear": "99.47%",
+    "uptimeYear": "99.46%",
     "time": 1890,
     "timeDay": 1200,
-    "timeWeek": 2162,
+    "timeWeek": 2171,
     "timeMonth": 1834,
     "timeYear": 1883,
     "dailyMinutesDown": {
-      "2023-02-05": 3,
       "2023-02-03": 27,
       "2023-02-01": 53,
       "2023-01-31": 116,
@@ -91,7 +90,8 @@
       "2022-11-03": 57,
       "2022-11-02": 92,
       "2022-11-01": 38,
-      "2022-10-31": 76
+      "2022-10-31": 76,
+      "2022-10-27": 17
     }
   },
   {
@@ -109,7 +109,7 @@
     "timeDay": 109,
     "timeWeek": 184,
     "timeMonth": 218,
-    "timeYear": 211,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2022-08-23": 55,
       "2022-06-30": 183,
@@ -131,7 +131,7 @@
     "timeDay": 301,
     "timeWeek": 309,
     "timeMonth": 326,
-    "timeYear": 337,
+    "timeYear": 338,
     "dailyMinutesDown": {
       "2022-06-30": 183,
       "2022-06-29": 20
@@ -173,7 +173,7 @@
     "timeDay": 453,
     "timeWeek": 458,
     "timeMonth": 436,
-    "timeYear": 544,
+    "timeYear": 545,
     "dailyMinutesDown": {
       "2022-11-04": 23,
       "2022-08-31": 61,
@@ -244,7 +244,7 @@
     "timeDay": 98,
     "timeWeek": 317,
     "timeMonth": 313,
-    "timeYear": 333,
+    "timeYear": 334,
     "dailyMinutesDown": {
       "2022-11-08": 21
     }
@@ -264,7 +264,7 @@
     "timeDay": 142,
     "timeWeek": 132,
     "timeMonth": 203,
-    "timeYear": 131,
+    "timeYear": 132,
     "dailyMinutesDown": {
       "2022-11-08": 20
     }
