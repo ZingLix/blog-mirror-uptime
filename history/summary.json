@@ -27,18 +27,19 @@
     "url": "https://blog.zinglix.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/blog.zinglix.xyz.ico",
     "slug": "blog-zinglix-xyz",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "97.40%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "98.81%",
     "uptimeWeek": "96.50%",
-    "uptimeMonth": "96.52%",
+    "uptimeMonth": "96.57%",
     "uptimeYear": "99.53%",
     "time": 2012,
-    "timeDay": 1303,
-    "timeWeek": 1572,
-    "timeMonth": 2248,
+    "timeDay": 1308,
+    "timeWeek": 1585,
+    "timeMonth": 2229,
     "timeYear": 2015,
     "dailyMinutesDown": {
+      "2023-03-31": 0,
       "2023-03-30": 38,
       "2023-03-29": 33,
       "2023-03-27": 72,
@@ -71,7 +72,7 @@
       "2023-02-11": 19,
       "2023-02-09": 120,
       "2023-02-03": 27,
-      "2023-02-01": 53
+      "2023-02-01": 38
     }
   },
   {
