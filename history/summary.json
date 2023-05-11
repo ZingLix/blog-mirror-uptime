@@ -29,17 +29,16 @@
     "slug": "blog-zinglix-xyz",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "97.44%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "97.50%",
     "uptimeYear": "99.43%",
     "time": 1956,
     "timeDay": 1333,
     "timeWeek": 1343,
-    "timeMonth": 1405,
+    "timeMonth": 1407,
     "timeYear": 1949,
     "dailyMinutesDown": {
-      "2023-05-10": 9,
       "2023-05-09": 43,
       "2023-05-08": 16,
       "2023-05-06": 35,
@@ -67,7 +66,8 @@
       "2023-03-30": 38,
       "2023-03-29": 33,
       "2023-03-27": 72,
-      "2023-03-26": 121
+      "2023-03-26": 121,
+      "2023-03-25": 17
     }
   },
   {
