@@ -10,15 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 216,
-    "timeDay": 339,
-    "timeWeek": 283,
-    "timeMonth": 226,
+    "time": 215,
+    "timeDay": 71,
+    "timeWeek": 284,
+    "timeMonth": 223,
     "timeYear": 202,
     "dailyMinutesDown": {
       "2022-08-20": 19,
-      "2022-07-08": 16,
-      "2022-06-30": 119
+      "2022-07-08": 16
     }
   },
   {
@@ -28,14 +27,14 @@
     "slug": "blog-zinglix-xyz",
     "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "96.69%",
+    "uptimeDay": "97.79%",
     "uptimeWeek": "98.70%",
     "uptimeMonth": "97.69%",
     "uptimeYear": "99.50%",
-    "time": 1980,
-    "timeDay": 1127,
-    "timeWeek": 1981,
-    "timeMonth": 2486,
+    "time": 1979,
+    "timeDay": 1074,
+    "timeWeek": 1987,
+    "timeMonth": 2492,
     "timeYear": 1950,
     "dailyMinutesDown": {
       "2023-06-29": 32,
@@ -93,13 +92,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 220,
-    "timeDay": 377,
-    "timeWeek": 251,
-    "timeMonth": 218,
+    "timeDay": 80,
+    "timeWeek": 253,
+    "timeMonth": 214,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2022-08-23": 55,
-      "2022-06-30": 183
+      "2022-08-23": 55
     }
   },
   {
@@ -112,15 +110,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 337,
-    "timeDay": 330,
-    "timeWeek": 318,
-    "timeMonth": 336,
+    "timeDay": 251,
+    "timeWeek": 315,
+    "timeMonth": 334,
     "timeYear": 339,
-    "dailyMinutesDown": {
-      "2022-06-30": 183
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "zinglix.pages.dev",
@@ -132,15 +128,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 96,
-    "timeDay": 60,
+    "timeDay": 52,
     "timeWeek": 71,
-    "timeMonth": 70,
+    "timeMonth": 69,
     "timeYear": 79,
-    "dailyMinutesDown": {
-      "2022-06-30": 183
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "nf.ljnb.top",
@@ -154,10 +148,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 550,
-    "timeDay": 419,
-    "timeWeek": 545,
-    "timeMonth": 598,
-    "timeYear": 569,
+    "timeDay": 387,
+    "timeWeek": 540,
+    "timeMonth": 596,
+    "timeYear": 570,
     "dailyMinutesDown": {
       "2022-11-04": 23,
       "2022-08-31": 61,
@@ -179,9 +173,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 203,
-    "timeDay": 111,
+    "timeDay": 128,
     "timeWeek": 196,
-    "timeMonth": 145,
+    "timeMonth": 144,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2022-11-04": 23,
@@ -203,9 +197,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 232,
-    "timeDay": 309,
-    "timeWeek": 273,
-    "timeMonth": 213,
+    "timeDay": 50,
+    "timeWeek": 242,
+    "timeMonth": 205,
     "timeYear": 229,
     "dailyMinutesDown": {
       "2022-11-08": 21,
@@ -224,10 +218,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 336,
-    "timeDay": 304,
-    "timeWeek": 308,
-    "timeMonth": 336,
-    "timeYear": 351,
+    "timeDay": 47,
+    "timeWeek": 283,
+    "timeMonth": 323,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2022-11-08": 21
     }
@@ -244,9 +238,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 136,
-    "timeDay": 89,
+    "timeDay": 118,
     "timeWeek": 115,
-    "timeMonth": 113,
+    "timeMonth": 111,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2022-11-08": 20
@@ -263,10 +257,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 201,
-    "timeDay": 169,
-    "timeWeek": 255,
-    "timeMonth": 201,
+    "time": 202,
+    "timeDay": 144,
+    "timeWeek": 267,
+    "timeMonth": 200,
     "timeYear": 232,
     "dailyMinutesDown": {
       "2022-09-15": 58
