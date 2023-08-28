@@ -29,9 +29,9 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.52%",
     "time": 1937,
-    "timeDay": 1546,
+    "timeDay": 1522,
     "timeWeek": 1539,
-    "timeMonth": 1525,
+    "timeMonth": 1528,
     "timeYear": 1941,
     "dailyMinutesDown": {
       "2023-08-26": 32,
@@ -129,18 +129,20 @@
     "url": "https://zinglix.pages.dev",
     "icon": "https://icons.duckduckgo.com/ip3/zinglix.pages.dev.ico",
     "slug": "zinglix-pages-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 82,
-    "timeWeek": 75,
-    "timeMonth": 68,
+    "timeDay": 52,
+    "timeWeek": 68,
+    "timeMonth": 66,
     "timeYear": 78,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-28": 0
+    }
   },
   {
     "name": "nf.ljnb.top",
