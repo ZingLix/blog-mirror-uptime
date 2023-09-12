@@ -23,10 +23,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.zinglix.xyz.ico",
     "slug": "blog-zinglix-xyz",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.79%",
+    "uptime": "99.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.53%",
     "time": 1947,
     "timeDay": 1509,
@@ -34,7 +34,6 @@
     "timeMonth": 1967,
     "timeYear": 1943,
     "dailyMinutesDown": {
-      "2023-09-12": 10,
       "2023-09-07": 16,
       "2023-09-02": 17,
       "2023-08-31": 18,
@@ -89,7 +88,7 @@
       "2023-05-19": 39,
       "2023-05-18": 130,
       "2023-05-17": 93,
-      "2023-05-16": 48
+      "2023-05-16": 81
     }
   },
   {
@@ -171,18 +170,19 @@
     "url": "https://zinglix.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/zinglix.netlify.app.ico",
     "slug": "zinglix-netlify-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 215,
-    "timeDay": 22,
-    "timeWeek": 66,
-    "timeMonth": 163,
-    "timeYear": 208,
+    "time": 223,
+    "timeDay": 2372,
+    "timeWeek": 648,
+    "timeMonth": 306,
+    "timeYear": 221,
     "dailyMinutesDown": {
+      "2023-09-12": 0,
       "2023-07-25": 23,
       "2022-11-04": 23
     }
