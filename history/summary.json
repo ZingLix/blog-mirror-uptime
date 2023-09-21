@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 94,
-    "timeWeek": 195,
-    "timeMonth": 346,
+    "timeDay": 197,
+    "timeWeek": 192,
+    "timeMonth": 344,
     "timeYear": 220,
     "dailyMinutesDown": {}
   },
@@ -24,17 +24,16 @@
     "slug": "blog-zinglix-xyz",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.74%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.53%",
-    "time": 1945,
-    "timeDay": 1248,
-    "timeWeek": 1284,
+    "time": 1944,
+    "timeDay": 1470,
+    "timeWeek": 1288,
     "timeMonth": 1851,
     "timeYear": 1931,
     "dailyMinutesDown": {
-      "2023-09-21": 9,
       "2023-09-14": 21,
       "2023-09-07": 16,
       "2023-09-02": 17,
@@ -90,7 +89,7 @@
       "2023-05-19": 39,
       "2023-05-18": 130,
       "2023-05-17": 93,
-      "2023-05-16": 29
+      "2023-05-16": 48
     }
   },
   {
@@ -104,11 +103,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 137,
-    "timeWeek": 165,
-    "timeMonth": 334,
-    "timeYear": 238,
+    "time": 245,
+    "timeDay": 243,
+    "timeWeek": 167,
+    "timeMonth": 333,
+    "timeYear": 239,
     "dailyMinutesDown": {}
   },
   {
@@ -116,18 +115,20 @@
     "url": "https://cf.ljnb.top",
     "icon": "https://icons.duckduckgo.com/ip3/cf.ljnb.top.ico",
     "slug": "cf-ljnb-top",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 337,
-    "timeDay": 289,
-    "timeWeek": 330,
-    "timeMonth": 335,
+    "timeDay": 335,
+    "timeWeek": 322,
+    "timeMonth": 334,
     "timeYear": 340,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-21": 0
+    }
   },
   {
     "name": "zinglix.pages.dev",
@@ -141,7 +142,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 98,
-    "timeDay": 56,
+    "timeDay": 67,
     "timeWeek": 66,
     "timeMonth": 84,
     "timeYear": 79,
@@ -159,9 +160,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 540,
-    "timeDay": 379,
-    "timeWeek": 296,
-    "timeMonth": 406,
+    "timeDay": 317,
+    "timeWeek": 291,
+    "timeMonth": 403,
     "timeYear": 518,
     "dailyMinutesDown": {
       "2022-11-04": 23
@@ -178,10 +179,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 222,
-    "timeDay": 86,
-    "timeWeek": 60,
-    "timeMonth": 271,
+    "time": 221,
+    "timeDay": 38,
+    "timeWeek": 58,
+    "timeMonth": 269,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2023-07-25": 23,
@@ -199,10 +200,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 254,
-    "timeDay": 61,
-    "timeWeek": 112,
-    "timeMonth": 296,
+    "time": 255,
+    "timeDay": 362,
+    "timeWeek": 134,
+    "timeMonth": 298,
     "timeYear": 242,
     "dailyMinutesDown": {
       "2022-11-08": 21
@@ -220,8 +221,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 351,
-    "timeDay": 432,
-    "timeWeek": 305,
+    "timeDay": 307,
+    "timeWeek": 265,
     "timeMonth": 278,
     "timeYear": 332,
     "dailyMinutesDown": {
@@ -240,9 +241,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 48,
-    "timeWeek": 77,
-    "timeMonth": 105,
+    "timeDay": 74,
+    "timeWeek": 68,
+    "timeMonth": 106,
     "timeYear": 152,
     "dailyMinutesDown": {
       "2022-11-08": 20
@@ -259,11 +260,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 146,
-    "timeWeek": 199,
-    "timeMonth": 290,
-    "timeYear": 257,
+    "time": 226,
+    "timeDay": 401,
+    "timeWeek": 227,
+    "timeMonth": 297,
+    "timeYear": 258,
     "dailyMinutesDown": {}
   }
 ]
