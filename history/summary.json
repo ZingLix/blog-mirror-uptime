@@ -4,18 +4,20 @@
     "url": "https://zinglix.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/zinglix.xyz.ico",
     "slug": "zinglix-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 220,
-    "timeWeek": 193,
-    "timeMonth": 242,
-    "timeYear": 224,
-    "dailyMinutesDown": {}
+    "timeDay": 150,
+    "timeWeek": 179,
+    "timeMonth": 236,
+    "timeYear": 223,
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "blog.zinglix.xyz",
@@ -29,10 +31,10 @@
     "uptimeMonth": "99.39%",
     "uptimeYear": "99.53%",
     "time": 1906,
-    "timeDay": 1457,
-    "timeWeek": 1516,
+    "timeDay": 1371,
+    "timeWeek": 1337,
     "timeMonth": 1497,
-    "timeYear": 1911,
+    "timeYear": 1906,
     "dailyMinutesDown": {
       "2023-10-25": 28,
       "2023-10-24": 76,
@@ -103,54 +105,60 @@
     "url": "https://cf.mirror.zinglix.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/cf.mirror.zinglix.xyz.ico",
     "slug": "cf-mirror-zinglix-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 334,
-    "timeWeek": 225,
-    "timeMonth": 255,
+    "timeDay": 203,
+    "timeWeek": 206,
+    "timeMonth": 249,
     "timeYear": 240,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "cf.ljnb.top",
     "url": "https://cf.ljnb.top",
     "icon": "https://icons.duckduckgo.com/ip3/cf.ljnb.top.ico",
     "slug": "cf-ljnb-top",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 337,
-    "timeDay": 351,
-    "timeWeek": 334,
-    "timeMonth": 341,
+    "timeDay": 311,
+    "timeWeek": 326,
+    "timeMonth": 339,
     "timeYear": 337,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "zinglix.pages.dev",
     "url": "https://zinglix.pages.dev",
     "icon": "https://icons.duckduckgo.com/ip3/zinglix.pages.dev.ico",
     "slug": "zinglix-pages-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 78,
-    "timeDay": 78,
-    "timeWeek": 72,
-    "timeMonth": 79,
+    "timeDay": 62,
+    "timeWeek": 69,
+    "timeMonth": 78,
     "timeYear": 77,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "nf.ljnb.top",
