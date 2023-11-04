@@ -11,8 +11,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 220,
-    "timeDay": 344,
-    "timeWeek": 188,
+    "timeDay": 207,
+    "timeWeek": 203,
     "timeMonth": 227,
     "timeYear": 224,
     "dailyMinutesDown": {
@@ -26,17 +26,16 @@
     "slug": "blog-zinglix-xyz",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "99.53%",
     "time": 1905,
-    "timeDay": 1491,
-    "timeWeek": 1436,
-    "timeMonth": 1494,
-    "timeYear": 1904,
+    "timeDay": 1637,
+    "timeWeek": 1479,
+    "timeMonth": 1499,
+    "timeYear": 1903,
     "dailyMinutesDown": {
-      "2023-11-03": 10,
       "2023-10-25": 28,
       "2023-10-24": 76,
       "2023-10-16": 19,
@@ -97,7 +96,8 @@
       "2023-05-22": 15,
       "2023-05-21": 111,
       "2023-05-20": 108,
-      "2023-05-19": 39
+      "2023-05-19": 39,
+      "2023-05-18": 19
     }
   },
   {
@@ -112,10 +112,10 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 225,
-    "timeDay": 263,
-    "timeWeek": 224,
-    "timeMonth": 237,
-    "timeYear": 241,
+    "timeDay": 425,
+    "timeWeek": 257,
+    "timeMonth": 238,
+    "timeYear": 242,
     "dailyMinutesDown": {
       "2023-10-30": 27
     }
@@ -132,9 +132,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 337,
-    "timeDay": 354,
-    "timeWeek": 339,
-    "timeMonth": 336,
+    "timeDay": 377,
+    "timeWeek": 345,
+    "timeMonth": 338,
     "timeYear": 337,
     "dailyMinutesDown": {
       "2023-10-30": 27
@@ -152,8 +152,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 78,
-    "timeDay": 59,
-    "timeWeek": 73,
+    "timeDay": 66,
+    "timeWeek": 74,
     "timeMonth": 77,
     "timeYear": 77,
     "dailyMinutesDown": {
@@ -172,13 +172,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 532,
-    "timeDay": 297,
-    "timeWeek": 450,
-    "timeMonth": 419,
+    "timeDay": 328,
+    "timeWeek": 447,
+    "timeMonth": 420,
     "timeYear": 500,
-    "dailyMinutesDown": {
-      "2022-11-04": 23
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "zinglix.netlify.app",
@@ -192,13 +190,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 219,
-    "timeDay": 38,
-    "timeWeek": 220,
-    "timeMonth": 152,
+    "timeDay": 171,
+    "timeWeek": 188,
+    "timeMonth": 157,
     "timeYear": 196,
     "dailyMinutesDown": {
-      "2023-07-25": 23,
-      "2022-11-04": 23
+      "2023-07-25": 23
     }
   },
   {
@@ -212,10 +209,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 235,
-    "timeWeek": 288,
-    "timeMonth": 224,
+    "time": 232,
+    "timeDay": 220,
+    "timeWeek": 308,
+    "timeMonth": 226,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2022-11-08": 21
@@ -233,8 +230,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 337,
-    "timeDay": 298,
-    "timeWeek": 348,
+    "timeDay": 304,
+    "timeWeek": 374,
     "timeMonth": 296,
     "timeYear": 316,
     "dailyMinutesDown": {
@@ -253,8 +250,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 143,
-    "timeDay": 66,
-    "timeWeek": 139,
+    "timeDay": 47,
+    "timeWeek": 132,
     "timeMonth": 129,
     "timeYear": 136,
     "dailyMinutesDown": {
@@ -273,9 +270,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 350,
-    "timeWeek": 274,
-    "timeMonth": 233,
+    "timeDay": 183,
+    "timeWeek": 272,
+    "timeMonth": 229,
     "timeYear": 264,
     "dailyMinutesDown": {}
   }
