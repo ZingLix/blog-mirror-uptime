@@ -33,8 +33,8 @@
     "time": 1900,
     "timeDay": 1664,
     "timeWeek": 1640,
-    "timeMonth": 1474,
-    "timeYear": 1906,
+    "timeMonth": 1467,
+    "timeYear": 1905,
     "dailyMinutesDown": {
       "2023-12-19": 16,
       "2023-12-17": 15,
@@ -170,18 +170,20 @@
     "url": "https://nf.ljnb.top",
     "icon": "https://icons.duckduckgo.com/ip3/nf.ljnb.top.ico",
     "slug": "nf-ljnb-top",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 492,
+    "time": 490,
     "timeDay": 335,
     "timeWeek": 563,
     "timeMonth": 418,
     "timeYear": 466,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-06": 1
+    }
   },
   {
     "name": "zinglix.netlify.app",
