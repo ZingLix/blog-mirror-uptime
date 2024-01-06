@@ -170,19 +170,19 @@
     "url": "https://nf.ljnb.top",
     "icon": "https://icons.duckduckgo.com/ip3/nf.ljnb.top.ico",
     "slug": "nf-ljnb-top",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 490,
-    "timeDay": 335,
-    "timeWeek": 563,
-    "timeMonth": 418,
+    "timeDay": 360,
+    "timeWeek": 541,
+    "timeMonth": 417,
     "timeYear": 466,
     "dailyMinutesDown": {
-      "2024-01-06": 1
+      "2024-01-06": 9
     }
   },
   {
