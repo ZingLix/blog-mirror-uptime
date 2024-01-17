@@ -208,19 +208,19 @@
     "url": "https://v.mirror.zinglix.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/v.mirror.zinglix.xyz.ico",
     "slug": "v-mirror-zinglix-xyz",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 242,
-    "timeDay": 205,
-    "timeWeek": 249,
-    "timeMonth": 231,
+    "timeDay": 252,
+    "timeWeek": 260,
+    "timeMonth": 235,
     "timeYear": 239,
     "dailyMinutesDown": {
-      "2024-01-17": 1
+      "2024-01-17": 19
     }
   },
   {
@@ -228,19 +228,19 @@
     "url": "https://v.ljnb.top",
     "icon": "https://icons.duckduckgo.com/ip3/v.ljnb.top.ico",
     "slug": "v-ljnb-top",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 1247,
-    "timeWeek": 561,
-    "timeMonth": 362,
+    "time": 328,
+    "timeDay": 869,
+    "timeWeek": 511,
+    "timeMonth": 354,
     "timeYear": 314,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 19
     }
   },
   {
@@ -248,19 +248,19 @@
     "url": "https://zinglix.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/zinglix.vercel.app.ico",
     "slug": "zinglix-vercel-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.71%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 141,
-    "timeDay": 93,
-    "timeWeek": 96,
+    "timeDay": 108,
+    "timeWeek": 101,
     "timeMonth": 117,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2024-01-17": 0
+      "2024-01-17": 19
     }
   },
   {
