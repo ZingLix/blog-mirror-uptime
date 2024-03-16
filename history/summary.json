@@ -34,7 +34,7 @@
     "timeDay": 1263,
     "timeWeek": 1402,
     "timeMonth": 1665,
-    "timeYear": 1781,
+    "timeYear": 1782,
     "dailyMinutesDown": {
       "2024-01-19": 22,
       "2024-01-13": 25,
@@ -170,19 +170,19 @@
     "url": "https://nf.ljnb.top",
     "icon": "https://icons.duckduckgo.com/ip3/nf.ljnb.top.ico",
     "slug": "nf-ljnb-top",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 464,
-    "timeDay": 289,
-    "timeWeek": 342,
-    "timeMonth": 341,
-    "timeYear": 437,
+    "timeDay": 281,
+    "timeWeek": 333,
+    "timeMonth": 339,
+    "timeYear": 436,
     "dailyMinutesDown": {
-      "2024-03-16": 0
+      "2024-03-16": 18
     }
   },
   {
