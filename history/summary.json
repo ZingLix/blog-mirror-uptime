@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 266,
-    "timeDay": 382,
-    "timeWeek": 310,
-    "timeMonth": 325,
-    "timeYear": 292,
+    "timeDay": 422,
+    "timeWeek": 336,
+    "timeMonth": 328,
+    "timeYear": 291,
     "dailyMinutesDown": {
       "2023-10-30": 27
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.75%",
     "time": 1709,
-    "timeDay": 1376,
-    "timeWeek": 1503,
-    "timeMonth": 1438,
+    "timeDay": 1506,
+    "timeWeek": 1495,
+    "timeMonth": 1458,
     "timeYear": 1620,
     "dailyMinutesDown": {
       "2024-06-22": 20,
@@ -83,8 +83,7 @@
       "2023-07-11": 17,
       "2023-07-10": 47,
       "2023-07-08": 17,
-      "2023-07-04": 16,
-      "2023-07-03": 17
+      "2023-07-04": 16
     }
   },
   {
@@ -99,9 +98,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 281,
-    "timeDay": 253,
-    "timeWeek": 277,
-    "timeMonth": 340,
+    "timeDay": 595,
+    "timeWeek": 320,
+    "timeMonth": 347,
     "timeYear": 298,
     "dailyMinutesDown": {
       "2023-10-30": 27
@@ -119,9 +118,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 356,
-    "timeDay": 288,
-    "timeWeek": 377,
-    "timeMonth": 337,
+    "timeDay": 324,
+    "timeWeek": 361,
+    "timeMonth": 336,
     "timeYear": 361,
     "dailyMinutesDown": {
       "2023-10-30": 27
@@ -139,9 +138,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 76,
-    "timeDay": 70,
-    "timeWeek": 85,
-    "timeMonth": 82,
+    "timeDay": 75,
+    "timeWeek": 80,
+    "timeMonth": 80,
     "timeYear": 79,
     "dailyMinutesDown": {
       "2023-10-30": 27
@@ -158,10 +157,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 315,
-    "timeWeek": 452,
-    "timeMonth": 346,
+    "time": 440,
+    "timeDay": 373,
+    "timeWeek": 441,
+    "timeMonth": 351,
     "timeYear": 398,
     "dailyMinutesDown": {
       "2024-03-16": 18
@@ -179,9 +178,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 144,
-    "timeDay": 40,
-    "timeWeek": 132,
-    "timeMonth": 119,
+    "timeDay": 126,
+    "timeWeek": 97,
+    "timeMonth": 118,
     "timeYear": 137,
     "dailyMinutesDown": {
       "2023-07-25": 23
@@ -194,15 +193,15 @@
     "slug": "v-mirror-zinglix-xyz",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.20%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.98%",
     "time": 272,
-    "timeDay": 325,
-    "timeWeek": 304,
-    "timeMonth": 279,
-    "timeYear": 294,
+    "timeDay": 260,
+    "timeWeek": 295,
+    "timeMonth": 283,
+    "timeYear": 292,
     "dailyMinutesDown": {
       "2024-06-30": 78,
       "2024-06-29": 3,
@@ -217,14 +216,14 @@
     "slug": "v-ljnb-top",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.20%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.98%",
     "time": 311,
     "timeDay": 324,
-    "timeWeek": 292,
-    "timeMonth": 294,
+    "timeWeek": 287,
+    "timeMonth": 303,
     "timeYear": 302,
     "dailyMinutesDown": {
       "2024-06-30": 78,
@@ -240,14 +239,14 @@
     "slug": "zinglix-vercel-app",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.20%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.98%",
     "time": 117,
-    "timeDay": 110,
-    "timeWeek": 88,
-    "timeMonth": 92,
+    "timeDay": 287,
+    "timeWeek": 114,
+    "timeMonth": 96,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2024-06-30": 78,
@@ -267,10 +266,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 238,
-    "timeDay": 458,
-    "timeWeek": 300,
-    "timeMonth": 302,
+    "time": 239,
+    "timeDay": 343,
+    "timeWeek": 287,
+    "timeMonth": 306,
     "timeYear": 255,
     "dailyMinutesDown": {}
   }
