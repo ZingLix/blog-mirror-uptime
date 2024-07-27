@@ -158,19 +158,19 @@
     "url": "https://zinglix.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/zinglix.netlify.app.ico",
     "slug": "zinglix-netlify-app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 76,
-    "timeWeek": 85,
-    "timeMonth": 86,
+    "timeDay": 61,
+    "timeWeek": 79,
+    "timeMonth": 85,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2024-07-27": 0
+      "2024-07-27": 16
     }
   },
   {
