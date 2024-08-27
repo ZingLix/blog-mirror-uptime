@@ -139,18 +139,19 @@
     "url": "https://nf.ljnb.top",
     "icon": "https://icons.duckduckgo.com/ip3/nf.ljnb.top.ico",
     "slug": "nf-ljnb-top",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 406,
+    "time": 407,
     "timeDay": 308,
     "timeWeek": 387,
     "timeMonth": 362,
     "timeYear": 382,
     "dailyMinutesDown": {
+      "2024-08-27": 1,
       "2024-03-16": 18
     }
   },
@@ -159,9 +160,9 @@
     "url": "https://zinglix.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/zinglix.netlify.app.ico",
     "slug": "zinglix-netlify-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -171,6 +172,7 @@
     "timeMonth": 197,
     "timeYear": 133,
     "dailyMinutesDown": {
+      "2024-08-27": 0,
       "2024-07-27": 16
     }
   },
