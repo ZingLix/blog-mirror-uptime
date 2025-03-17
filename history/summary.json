@@ -80,9 +80,9 @@
     "url": "https://cf.ljnb.top",
     "icon": "https://icons.duckduckgo.com/ip3/cf.ljnb.top.ico",
     "slug": "cf-ljnb-top",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -91,7 +91,9 @@
     "timeWeek": 225,
     "timeMonth": 235,
     "timeYear": 337,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-17": 0
+    }
   },
   {
     "name": "zinglix.pages.dev",
@@ -116,9 +118,9 @@
     "url": "https://nf.ljnb.top",
     "icon": "https://icons.duckduckgo.com/ip3/nf.ljnb.top.ico",
     "slug": "nf-ljnb-top",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -128,6 +130,7 @@
     "timeMonth": 289,
     "timeYear": 352,
     "dailyMinutesDown": {
+      "2025-03-17": 0,
       "2024-10-28": 19,
       "2024-10-11": 18,
       "2024-08-27": 18
@@ -182,9 +185,9 @@
     "url": "https://v.ljnb.top",
     "icon": "https://icons.duckduckgo.com/ip3/v.ljnb.top.ico",
     "slug": "v-ljnb-top",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -194,6 +197,7 @@
     "timeMonth": 193,
     "timeYear": 279,
     "dailyMinutesDown": {
+      "2025-03-17": 0,
       "2024-06-30": 78,
       "2024-06-29": 3,
       "2024-06-16": 19
