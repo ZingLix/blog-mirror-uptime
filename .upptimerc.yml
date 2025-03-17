@@ -13,12 +13,16 @@ sites:
     url: https://zinglix.pages.dev
   - name: zinglix.netlify.app
     url: https://zinglix.netlify.app
+  - name: nf.mirror.zinglix.xyz
+    url: https://nf.mirror.zinglix.xyz
   - name: v.mirror.zinglix.xyz
     url: https://v.mirror.zinglix.xyz
   - name: zinglix.vercel.app
     url: https://zinglix.vercel.app
   - name: gh.mirror.zinglix.xyz
     url: https://gh.mirror.zinglix.xyz
+  - name: zinglix.github.io
+    url: https://zinglix.github.io
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
