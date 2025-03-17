@@ -9,18 +9,12 @@ sites:
     url: https://blog.zinglix.xyz
   - name: cf.mirror.zinglix.xyz
     url: https://cf.mirror.zinglix.xyz
-  - name: cf.ljnb.top
-    url: https://cf.ljnb.top
   - name: zinglix.pages.dev
     url: https://zinglix.pages.dev
-  - name: nf.ljnb.top
-    url: https://nf.ljnb.top
   - name: zinglix.netlify.app
     url: https://zinglix.netlify.app
   - name: v.mirror.zinglix.xyz
     url: https://v.mirror.zinglix.xyz
-  - name: v.ljnb.top
-    url: https://v.ljnb.top
   - name: zinglix.vercel.app
     url: https://zinglix.vercel.app
   - name: gh.mirror.zinglix.xyz
