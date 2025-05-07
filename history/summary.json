@@ -121,9 +121,9 @@
     "url": "https://nf.mirror.zinglix.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/nf.mirror.zinglix.xyz.ico",
     "slug": "nf-mirror-zinglix-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
@@ -133,6 +133,7 @@
     "timeMonth": 390,
     "timeYear": 363,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2025-04-12": 26
     }
   },
