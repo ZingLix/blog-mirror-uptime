@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 314,
-    "timeDay": 457,
-    "timeWeek": 278,
-    "timeMonth": 242,
-    "timeYear": 299,
+    "timeDay": 323,
+    "timeWeek": 265,
+    "timeMonth": 244,
+    "timeYear": 300,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "99.86%",
     "time": 1462,
-    "timeDay": 1456,
-    "timeWeek": 1673,
-    "timeMonth": 1563,
+    "timeDay": 1633,
+    "timeWeek": 1720,
+    "timeMonth": 1437,
     "timeYear": 1442,
     "dailyMinutesDown": {
       "2025-07-25": 54,
@@ -77,9 +77,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 339,
-    "timeDay": 291,
-    "timeWeek": 262,
-    "timeMonth": 262,
+    "timeDay": 181,
+    "timeWeek": 221,
+    "timeMonth": 258,
     "timeYear": 324,
     "dailyMinutesDown": {}
   },
@@ -95,9 +95,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 91,
-    "timeDay": 123,
-    "timeWeek": 119,
-    "timeMonth": 107,
+    "timeDay": 90,
+    "timeWeek": 118,
+    "timeMonth": 104,
     "timeYear": 91,
     "dailyMinutesDown": {}
   },
@@ -113,15 +113,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 168,
-    "timeDay": 543,
-    "timeWeek": 289,
-    "timeMonth": 192,
-    "timeYear": 180,
+    "timeDay": 394,
+    "timeWeek": 329,
+    "timeMonth": 199,
+    "timeYear": 181,
     "dailyMinutesDown": {
       "2025-06-07": 25,
       "2025-02-18": 21,
-      "2024-08-27": 18,
-      "2024-07-27": 16
+      "2024-08-27": 18
     }
   },
   {
@@ -136,9 +135,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 343,
-    "timeDay": 387,
-    "timeWeek": 287,
-    "timeMonth": 283,
+    "timeDay": 263,
+    "timeWeek": 280,
+    "timeMonth": 279,
     "timeYear": 343,
     "dailyMinutesDown": {
       "2025-05-07": 19,
@@ -152,18 +151,16 @@
     "slug": "v-mirror-zinglix-xyz",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 339,
-    "timeWeek": 234,
-    "timeMonth": 206,
+    "time": 268,
+    "timeDay": 255,
+    "timeWeek": 212,
+    "timeMonth": 198,
     "timeYear": 247,
-    "dailyMinutesDown": {
-      "2025-07-26": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "zinglix.vercel.app",
@@ -172,18 +169,16 @@
     "slug": "zinglix-vercel-app",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 118,
-    "timeDay": 209,
-    "timeWeek": 172,
-    "timeMonth": 130,
-    "timeYear": 117,
-    "dailyMinutesDown": {
-      "2025-07-26": 9
-    }
+    "time": 119,
+    "timeDay": 237,
+    "timeWeek": 187,
+    "timeMonth": 133,
+    "timeYear": 118,
+    "dailyMinutesDown": {}
   },
   {
     "name": "gh.mirror.zinglix.xyz",
@@ -197,9 +192,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 300,
-    "timeDay": 290,
-    "timeWeek": 242,
-    "timeMonth": 217,
+    "timeDay": 282,
+    "timeWeek": 238,
+    "timeMonth": 218,
     "timeYear": 299,
     "dailyMinutesDown": {}
   },
@@ -214,11 +209,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 79,
-    "timeDay": 124,
-    "timeWeek": 125,
-    "timeMonth": 81,
-    "timeYear": 79,
+    "time": 80,
+    "timeDay": 131,
+    "timeWeek": 122,
+    "timeMonth": 83,
+    "timeYear": 80,
     "dailyMinutesDown": {}
   }
 ]
