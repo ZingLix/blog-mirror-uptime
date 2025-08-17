@@ -25,12 +25,12 @@
     "status": "up",
     "uptime": "99.88%",
     "uptimeDay": "98.11%",
-    "uptimeWeek": "98.45%",
+    "uptimeWeek": "98.67%",
     "uptimeMonth": "99.05%",
     "uptimeYear": "99.80%",
     "time": 1449,
     "timeDay": 1427,
-    "timeWeek": 1419,
+    "timeWeek": 1435,
     "timeMonth": 1420,
     "timeYear": 1434,
     "dailyMinutesDown": {
@@ -157,9 +157,9 @@
     "url": "https://v.mirror.zinglix.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/v.mirror.zinglix.xyz.ico",
     "slug": "v-mirror-zinglix-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -168,16 +168,18 @@
     "timeWeek": 281,
     "timeMonth": 260,
     "timeYear": 244,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-17": 0
+    }
   },
   {
     "name": "zinglix.vercel.app",
     "url": "https://zinglix.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/zinglix.vercel.app.ico",
     "slug": "zinglix-vercel-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -186,7 +188,9 @@
     "timeWeek": 115,
     "timeMonth": 152,
     "timeYear": 119,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-17": 0
+    }
   },
   {
     "name": "gh.mirror.zinglix.xyz",
