@@ -157,19 +157,19 @@
     "url": "https://v.mirror.zinglix.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/v.mirror.zinglix.xyz.ico",
     "slug": "v-mirror-zinglix-xyz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 265,
-    "timeDay": 464,
-    "timeWeek": 281,
-    "timeMonth": 260,
+    "timeDay": 415,
+    "timeWeek": 292,
+    "timeMonth": 263,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-08-17": 0
+      "2025-08-17": 11
     }
   },
   {
@@ -177,19 +177,19 @@
     "url": "https://zinglix.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/zinglix.vercel.app.ico",
     "slug": "zinglix-vercel-app",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 112,
+    "timeDay": 115,
     "timeWeek": 115,
-    "timeMonth": 152,
+    "timeMonth": 151,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2025-08-17": 0
+      "2025-08-17": 11
     }
   },
   {
