@@ -238,9 +238,9 @@
     "url": "https://zinglix.github.io",
     "icon": "https://icons.duckduckgo.com/ip3/zinglix.github.io.ico",
     "slug": "zinglix-github-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -249,6 +249,8 @@
     "timeWeek": 75,
     "timeMonth": 77,
     "timeYear": 80,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-22": 0
+    }
   }
 ]
