@@ -1,7 +1,7 @@
 url: https://zinglix.vercel.app
-status: up
-code: 200
-responseTime: 58
-lastUpdated: 2025-10-19T23:00:18.551Z
+status: down
+code: 429
+responseTime: 61
+lastUpdated: 2025-10-20T07:56:41.149Z
 startTime: 2021-12-05T12:25:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
