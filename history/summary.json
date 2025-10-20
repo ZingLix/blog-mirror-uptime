@@ -131,10 +131,10 @@
     "url": "https://zinglix.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/zinglix.netlify.app.ico",
     "slug": "zinglix-netlify-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 176,
@@ -143,6 +143,7 @@
     "timeMonth": 195,
     "timeYear": 173,
     "dailyMinutesDown": {
+      "2025-10-20": 1,
       "2025-06-07": 25,
       "2025-02-18": 21
     }
@@ -152,9 +153,9 @@
     "url": "https://nf.mirror.zinglix.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/nf.mirror.zinglix.xyz.ico",
     "slug": "nf-mirror-zinglix-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.41%",
+    "uptimeDay": "98.39%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
