@@ -4,19 +4,19 @@
     "url": "https://zinglix.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/zinglix.xyz.ico",
     "slug": "zinglix-xyz",
-    "status": "down",
+    "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.31%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 306,
-    "timeDay": 619,
-    "timeWeek": 203,
-    "timeMonth": 323,
-    "timeYear": 301,
+    "timeDay": 545,
+    "timeWeek": 237,
+    "timeMonth": 328,
+    "timeYear": 302,
     "dailyMinutesDown": {
-      "2025-11-12": 0
+      "2025-11-12": 24
     }
   },
   {
