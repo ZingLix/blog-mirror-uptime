@@ -140,10 +140,10 @@
     "url": "https://zinglix.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/zinglix.netlify.app.ico",
     "slug": "zinglix-netlify-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 185,
@@ -152,6 +152,7 @@
     "timeMonth": 255,
     "timeYear": 178,
     "dailyMinutesDown": {
+      "2025-11-17": 1,
       "2025-10-20": 48,
       "2025-06-07": 25,
       "2025-02-18": 21
@@ -162,9 +163,9 @@
     "url": "https://nf.mirror.zinglix.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/nf.mirror.zinglix.xyz.ico",
     "slug": "nf-mirror-zinglix-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.97%",
@@ -174,6 +175,7 @@
     "timeMonth": 346,
     "timeYear": 342,
     "dailyMinutesDown": {
+      "2025-11-17": 0,
       "2025-10-20": 70,
       "2025-05-07": 19,
       "2025-04-12": 26
