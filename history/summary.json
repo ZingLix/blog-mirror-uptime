@@ -33,7 +33,7 @@
     "time": 1301,
     "timeDay": 480,
     "timeWeek": 674,
-    "timeMonth": 634,
+    "timeMonth": 623,
     "timeYear": 1265,
     "dailyMinutesDown": {
       "2025-11-14": 23,
@@ -122,18 +122,20 @@
     "url": "https://zinglix.pages.dev",
     "icon": "https://icons.duckduckgo.com/ip3/zinglix.pages.dev.ico",
     "slug": "zinglix-pages-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 96,
-    "timeDay": 102,
-    "timeWeek": 100,
-    "timeMonth": 105,
+    "timeDay": 70,
+    "timeWeek": 92,
+    "timeMonth": 103,
     "timeYear": 98,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "zinglix.netlify.app",
@@ -147,7 +149,7 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
     "time": 187,
-    "timeDay": 591,
+    "timeDay": 498,
     "timeWeek": 302,
     "timeMonth": 264,
     "timeYear": 181,
@@ -169,7 +171,7 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.97%",
     "time": 344,
-    "timeDay": 589,
+    "timeDay": 590,
     "timeWeek": 462,
     "timeMonth": 356,
     "timeYear": 344,
