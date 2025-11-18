@@ -125,19 +125,19 @@
     "url": "https://zinglix.pages.dev",
     "icon": "https://icons.duckduckgo.com/ip3/zinglix.pages.dev.ico",
     "slug": "zinglix-pages-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "93.80%",
-    "uptimeWeek": "99.11%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "92.79%",
+    "uptimeWeek": "98.97%",
+    "uptimeMonth": "99.76%",
     "uptimeYear": "99.98%",
     "time": 96,
-    "timeDay": 65,
-    "timeWeek": 86,
+    "timeDay": 72,
+    "timeWeek": 87,
     "timeMonth": 101,
     "timeYear": 98,
     "dailyMinutesDown": {
-      "2025-11-18": 89
+      "2025-11-18": 104
     }
   },
   {
