@@ -13,7 +13,7 @@
     "time": 296,
     "timeDay": 188,
     "timeWeek": 206,
-    "timeMonth": 227,
+    "timeMonth": 232,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2025-11-12": 24,
@@ -27,17 +27,17 @@
     "url": "https://blog.zinglix.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/blog.zinglix.xyz.ico",
     "slug": "blog-zinglix-xyz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.45%",
     "time": 726,
     "timeDay": 904,
     "timeWeek": 1713,
-    "timeMonth": 1152,
-    "timeYear": 651,
+    "timeMonth": 1165,
+    "timeYear": 652,
     "dailyMinutesDown": {
       "2025-10-06": 40,
       "2025-10-07": 30,
@@ -86,7 +86,8 @@
       "2026-06-08": 293,
       "2026-06-14": 157,
       "2026-06-18": 210,
-      "2026-06-21": 143
+      "2026-06-21": 143,
+      "2026-09-28": 0
     }
   },
   {
@@ -103,7 +104,7 @@
     "time": 317,
     "timeDay": 186,
     "timeWeek": 314,
-    "timeMonth": 426,
+    "timeMonth": 428,
     "timeYear": 322,
     "dailyMinutesDown": {
       "2025-11-18": 89
@@ -123,7 +124,7 @@
     "time": 98,
     "timeDay": 95,
     "timeWeek": 122,
-    "timeMonth": 100,
+    "timeMonth": 102,
     "timeYear": 95,
     "dailyMinutesDown": {
       "2025-11-18": 104
@@ -143,7 +144,7 @@
     "time": 292,
     "timeDay": 477,
     "timeWeek": 573,
-    "timeMonth": 471,
+    "timeMonth": 477,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2025-10-20": 48,
@@ -166,7 +167,7 @@
     "time": 364,
     "timeDay": 339,
     "timeWeek": 296,
-    "timeMonth": 340,
+    "timeMonth": 344,
     "timeYear": 381,
     "dailyMinutesDown": {
       "2025-10-20": 70,
@@ -189,7 +190,7 @@
     "time": 295,
     "timeDay": 154,
     "timeWeek": 244,
-    "timeMonth": 306,
+    "timeMonth": 312,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2025-10-15": 18,
@@ -216,7 +217,7 @@
     "time": 121,
     "timeDay": 92,
     "timeWeek": 112,
-    "timeMonth": 129,
+    "timeMonth": 131,
     "timeYear": 120,
     "dailyMinutesDown": {
       "2025-10-15": 18,
@@ -243,7 +244,7 @@
     "time": 271,
     "timeDay": 180,
     "timeWeek": 261,
-    "timeMonth": 242,
+    "timeMonth": 249,
     "timeYear": 275,
     "dailyMinutesDown": {}
   },
@@ -261,7 +262,7 @@
     "time": 92,
     "timeDay": 231,
     "timeWeek": 104,
-    "timeMonth": 118,
+    "timeMonth": 120,
     "timeYear": 98,
     "dailyMinutesDown": {
       "2025-12-26": 38
